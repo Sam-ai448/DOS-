@@ -1,0 +1,3 @@
+guess = input ('美國位於那個洲 \
+A) 大洋洲 B) 美洲 C) 亞洲 D) 歐洲   A, B, C, D ')
+check_guess(black , 'B')(moom , 'b')
